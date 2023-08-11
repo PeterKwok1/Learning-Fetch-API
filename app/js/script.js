@@ -1,4 +1,4 @@
-// testing ssh key
+// testing ssh key 2
 fetch('products.json')
     .then(response => {
         if (!response.ok) {
